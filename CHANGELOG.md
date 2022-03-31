@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.7.9
+## (2022-03-31)
+
+* patch: maked close button blue [Peter Makra]
+* patch: changed iframe size to percent [Peter Makra]
+* patch: changed iframe css; fixed lint [Peter Makra]
+* patch: [diag] added diag container handling [Peter Makra]
+* patch: Show diag buttons if container available [Peter Makra]
+* patch: add hw-diag button to settings [Peter Makra]
+
 # v1.7.8
 ## (2022-03-18)
 
